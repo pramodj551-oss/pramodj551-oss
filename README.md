@@ -7,7 +7,7 @@ I am a passionate developer focusing on building intelligent systems using **Lar
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Python (NumPy, Pandas), SQL, JavaScript
-- **AI/ML:** LangChain, FAISS, Scikit-learn, RAG Pipelines
+- **AI/ML:** LangChain, FAISS, Scikit-Learn, RAG Pipelines
 - **Data Visualization:** Streamlit, Plotly/Dash, Matplotlib
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebooks
 

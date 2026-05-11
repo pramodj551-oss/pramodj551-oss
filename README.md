@@ -104,10 +104,10 @@ Interactive global economic dashboard with visual insights deployed on Streamlit
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pramodj551-oss&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodj551-oss&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+![Pramod's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pramodj551-oss&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pramodj551-oss&layout=compact&theme=radical)
+
 
 ---
 

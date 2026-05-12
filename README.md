@@ -3,7 +3,7 @@
 <h3 align="center">AI-Augmented SOC Analyst | 12+ Yrs Security Operations | Python & ML for Cybersecurity</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pramod-prakash-jadhav-42ba2281"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pramod-jadhav-42ba2281"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://portfolio-eta-ashen-pxpaf816ec.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:pramodj551@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -48,7 +48,7 @@ Now I build AI tools that solve real security problems — anomaly detection, lo
 > Random Forest model predicting Nifty Bank BeES ETF daily closing prices with OHLCV feature engineering.
 `Python` `Random Forest` `Pandas` `Scikit-Learn` `Matplotlib`
 
-### 🔒 [PII Detection & GDPR Compliance](https://github.com/pramodj551-oss/pii-detection-compliance)
+### 🔒 [PII Detection & GDPR Compliance](https://github.com/pramodj551-oss/air-detection-compliance)
 > ML classifier detecting 7 PII types (Aadhaar, PAN, Email, Phone) for GDPR/DPDP compliance audits.
 `Python` `Logistic Regression` `Pandas` `Scikit-Learn`
 
@@ -57,6 +57,13 @@ Now I build AI tools that solve real security problems — anomaly detection, lo
 `Python` `Streamlit` `Plotly` `Pandas`
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pramodj551-oss&show_icons=true&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodj551-oss&layout=compact&theme=dark&hide_border=true" width="48%"/>
+</p>
 
 ---
 

@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Pramod Prakash Jadhav 👋</h1>
 
-<h3 align="center">AI/ML Developer | Data Science Enthusiast | Python Expert</h3>
+<h3 align="center">AI-Augmented SOC Analyst | 12+ Yrs Security Operations | 
+Python • Anomaly Detection • ML for Cybersecurity | IIT Patna AI/ML</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pramod-jadhav-42ba2281">
@@ -18,7 +19,7 @@
 
 ## 🚀 About Me
 
-I am a passionate **AI/ML Developer** focused on building intelligent systems using **Large Language Models (LLMs)**, **Machine Learning**, and **Data Analytics**.
+I am a passionate **12 years SOC + now AI** focused on building intelligent systems using **Large Language Models (LLMs)**, **Machine Learning**, and **Data Analytics**.
 
 With hands-on experience in Python, data science, and real-world business problem solving, I create:
 
@@ -122,12 +123,11 @@ Interactive global economic dashboard with visual insights deployed on Streamlit
 
 ## 💼 Open To Opportunities
 
-- AI/ML Developer
-- Data Scientist
-- Python Developer
-- Generative AI Engineer
-- Security Data Analyst
 - AI-Augmented SOC Analyst
+- Security Data Analyst  
+- Threat Intelligence Analyst
+- Security Automation Engineer
+- Python Developer
 
 ---
 

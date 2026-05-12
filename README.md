@@ -1,13 +1,9 @@
----
-
-<!-- PASTE BELOW INTO YOUR README.md -->
-
 <h1 align="center">Hi, I'm Pramod Prakash Jadhav 👋</h1>
 
 <h3 align="center">AI-Augmented SOC Analyst | 12+ Yrs Security Operations | Python & ML for Cybersecurity</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pramod-jadhav-42ba2281"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pramod-prakash-jadhav-42ba2281"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://portfolio-eta-ashen-pxpaf816ec.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:pramodj551@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -80,4 +76,3 @@ Now I build AI tools that solve real security problems — anomaly detection, lo
 ---
 
 *"12 years reading security logs manually. Now I build the tools that do it automatically."*
-

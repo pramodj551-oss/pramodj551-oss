@@ -1,7 +1,3 @@
-# GitHub Profile README — Pramod Prakash Jadhav
-# File: pramodj551-oss/pramodj551-oss/README.md
-# Copy this EXACTLY into your GitHub profile README
-
 ---
 
 <!-- PASTE BELOW INTO YOUR README.md -->

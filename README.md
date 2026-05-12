@@ -1,142 +1,87 @@
+# GitHub Profile README — Pramod Prakash Jadhav
+# File: pramodj551-oss/pramodj551-oss/README.md
+# Copy this EXACTLY into your GitHub profile README
+
+---
+
+<!-- PASTE BELOW INTO YOUR README.md -->
+
 <h1 align="center">Hi, I'm Pramod Prakash Jadhav 👋</h1>
 
-<h3 align="center">AI-Augmented SOC Analyst | 12+ Yrs Security Operations | 
-Python • Anomaly Detection • ML for Cybersecurity | IIT Patna AI/ML</h3>
+<h3 align="center">AI-Augmented SOC Analyst | 12+ Yrs Security Operations | Python & ML for Cybersecurity</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pramod-jadhav-42ba2281">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-eta-ashen-pxpaf816ec.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:pramodj551@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/pramod-jadhav-42ba2281"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://portfolio-eta-ashen-pxpaf816ec.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:pramodj551@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🔐 About Me
 
-I am a passionate **12 years SOC + now AI** focused on building intelligent systems using **Large Language Models (LLMs)**, **Machine Learning**, and **Data Analytics**.
+**Security professional turned AI developer** — I spent 12+ years in real SOC environments (NTT Tier-III Data Centre, Accenture, TCL, MCX), monitoring 100+ CCTV feeds, managing incidents, and reading thousands of access logs manually.
 
-With hands-on experience in Python, data science, and real-world business problem solving, I create:
+Then I asked myself: *What if machines could detect the patterns I was spotting by hand?*
 
-- 🤖 Retrieval-Augmented Generation (RAG) applications
-- 📊 Interactive dashboards and analytics tools
-- 📈 Predictive machine learning models
-- 🔐 AI-powered cybersecurity and compliance solutions
+That question led me to Python, Machine Learning, and the **Applied AI & ML Essentials programme at IIT Patna (Vishlesan i-Hub)**.
 
-I enjoy transforming complex data into actionable insights and production-ready applications.
+Now I build AI tools that solve real security problems — anomaly detection, log analysis automation, threat pattern recognition.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-| Category | Technologies |
-|--------|--------|
-| **Languages** | Python, SQL, JavaScript |
-| **Data Science** | Pandas, NumPy, Matplotlib |
-| **Machine Learning** | Scikit-Learn, Random Forest, Logistic Regression, Isolation Forest |
-| **LLM & RAG** | LangChain, FAISS, Qwen 2.5, Prompt Engineering |
-| **Visualization** | Streamlit, Plotly, Dash |
-| **Development Tools** | Git, GitHub, Jupyter Notebook, VS Code |
-| **Cybersecurity** | Log Analysis, Anomaly Detection, PII Detection |
+| Domain | Tools |
+|--------|-------|
+| **Security Ops** | SOC Operations, Milestone X-Protect, Solus Access Control, CCTV Surveillance, Incident Response |
+| **AI / ML** | Scikit-Learn, Isolation Forest, Logistic Regression, Random Forest, Pandas, NumPy |
+| **AI Tools** | LangChain, FAISS, RAG Pipelines, Qwen 2.5, Prompt Engineering |
+| **Visualisation** | Streamlit, Plotly, Matplotlib |
+| **Dev Tools** | Python, Flask, Jupyter Notebooks, GitHub, VS Code |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔍 Security Log Anomaly Detection
-Detect suspicious login behavior using Isolation Forest and visualize anomalies through a Streamlit dashboard.
+### 🔍 [Security Log Anomaly Detection](https://github.com/pramodj551-oss/security-log-anomaly-detection)
+> Unsupervised ML (Isolation Forest) detecting suspicious login patterns in 50,000+ access logs. Live Streamlit SOC dashboard.
+`Python` `Pandas` `Scikit-Learn` `Isolation Forest` `Streamlit` `Plotly`
 
-**Tech:** Python, Pandas, Scikit-Learn, Isolation Forest, Streamlit, Plotly
+### 🤖 [AI Content Creator — RAG Pipeline](https://github.com/pramodj551-oss/AI-Content-Creator-RAG)
+> Fully local RAG pipeline using LangChain + FAISS + Qwen 2.5 for context-aware educational queries. No external API dependency.
+`Python` `LangChain` `FAISS` `Qwen 2.5` `Jupyter`
 
-🔗 https://github.com/pramodj551-oss/security-log-anomaly-detection
+### 📈 [BankBeES Stock Predictor](https://github.com/pramodj551-oss/BankBeES-Stock-Predictor)
+> Random Forest model predicting Nifty Bank BeES ETF daily closing prices with OHLCV feature engineering.
+`Python` `Random Forest` `Pandas` `Scikit-Learn` `Matplotlib`
 
----
+### 🔒 [PII Detection & GDPR Compliance](https://github.com/pramodj551-oss/air-detection-compliance)
+> ML classifier detecting 7 PII types (Aadhaar, PAN, Email, Phone) for GDPR/DPDP compliance audits.
+`Python` `Logistic Regression` `Pandas` `Scikit-Learn`
 
-### 🤖 AI Content Creator — RAG Pipeline
-A fully local Retrieval-Augmented Generation application using LangChain, FAISS, and Qwen 2.5 for context-aware educational assistance.
-
-**Tech:** Python, LangChain, FAISS, Qwen 2.5
-
-🔗 https://github.com/pramodj551-oss/AI-Content-Creator-RAG
-
----
-
-### 📈 BankBeES Stock Predictor
-Machine learning model to predict ETF closing prices using feature engineering and Random Forest regression.
-
-**Tech:** Python, Pandas, Scikit-Learn, Random Forest, Matplotlib
-
-🔗 https://github.com/pramodj551-oss/BankBeES-Stock-Predictor
-
----
-
-### 🔒 PII Detection & GDPR Compliance
-Detects sensitive personal information such as Aadhaar, PAN, email, and phone numbers for compliance auditing.
-
-**Tech:** Python, Logistic Regression, Pandas, Scikit-Learn
-
-🔗 https://github.com/pramodj551-oss/air-detection-compliance
-
----
-
-### 📊 GDP Dashboard
-Interactive global economic dashboard with visual insights deployed on Streamlit Cloud.
-
-**Tech:** Python, Streamlit, Plotly, Pandas
-
-🔗 https://github.com/pramodj551-oss/gdp-dashboard
-
----
-
-## 🌐 Live Streamlit Applications
-
-- 📈 BankBeES Stock Predictor
-- 🌍 GDP Dashboard
-- 🤖 AI Content Creator RAG
-
-🔗 https://share.streamlit.io/user/pramodj551-oss
+### 📊 [GDP Data Dashboard](https://github.com/pramodj551-oss/gdp-dashboard)
+> Interactive global economic data dashboard with Plotly — live deployed on Streamlit Cloud.
+`Python` `Streamlit` `Plotly` `Pandas`
 
 ---
 
 ## 📊 GitHub Stats
 
-![Pramod's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pramodj551-oss&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pramodj551-oss&layout=compact&theme=radical)
-
-
----
-
-## 🎯 Currently Working On
-
-- 📚 Applied AI & ML Essentials — IIT Patna (Vishlesan i-Hub)
-- 🤖 Advanced RAG and LLM Applications
-- 📊 Data Science and Machine Learning Projects
-- 🔐 AI-Powered Cybersecurity Solutions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pramodj551-oss&show_icons=true&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodj551-oss&layout=compact&theme=dark&hide_border=true" width="48%"/>
+</p>
 
 ---
 
-## 💼 Open To Opportunities
+## 🎯 Currently
 
-- AI-Augmented SOC Analyst
-- Security Data Analyst  
-- Threat Intelligence Analyst
-- Security Automation Engineer
-- Python Developer
+- 📚 Completing **Applied AI & ML Essentials — IIT Patna**
+- 🔧 Building **AI-powered SOC automation tools**
+- 🎯 Open to: **AI-Augmented SOC Analyst | Security Data Analyst | Threat Intelligence Analyst**
 
 ---
 
-## 📫 Connect With Me
+*"12 years reading security logs manually. Now I build the tools that do it automatically."*
 
-- LinkedIn: https://www.linkedin.com/in/pramod-jadhav-42ba2281
-- Portfolio: https://portfolio-eta-ashen-pxpaf816ec.vercel.app/
-- Email: pramodj551@gmail.com
-
----
-
-> “I build intelligent applications that turn data into actionable insights.”

@@ -45,12 +45,6 @@ Currently completing **Applied AI & ML Essentials — IIT Patna**.
 > Random Forest model predicting Nifty Bank BeES ETF prices with 78% directional accuracy on test data.  
 > `Python` `Random Forest` `Pandas` `Scikit-Learn`
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pramodj551-oss&show_icons=true&theme=radical" />
-</p>
 
 ---
 
